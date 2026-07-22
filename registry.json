@@ -4,7 +4,7 @@
   "projects": [
     {
       "name": "health-info-translations",
-      "repo": "Elyos-Projects/health-info-translations",
+      "repo": "Hee-Lee-Oss-Projects/health-info-translations",
       "description": "Translate vetted public-health information into low-resource languages.",
       "domain": [
         "translation",
@@ -19,7 +19,7 @@
     },
     {
       "name": "oer-math",
-      "repo": "Elyos-Projects/oer-math",
+      "repo": "Hee-Lee-Oss-Projects/oer-math",
       "description": "Open educational resources (math) for under-funded schools.",
       "domain": [
         "education",
@@ -35,7 +35,7 @@
     },
     {
       "name": "civic-open-data",
-      "repo": "Elyos-Projects/civic-open-data",
+      "repo": "Hee-Lee-Oss-Projects/civic-open-data",
       "description": "Use open public datasets to produce new analyses and derivative open datasets.",
       "domain": [
         "public-data",
@@ -50,7 +50,7 @@
     },
     {
       "name": "vital-info-translations",
-      "repo": "Elyos-Projects/vital-info-translations",
+      "repo": "Hee-Lee-Oss-Projects/vital-info-translations",
       "description": "Translate vetted public-health & safety guidance into low-resource languages.",
       "domain": [
         "translation",
@@ -66,7 +66,7 @@
     },
     {
       "name": "a11y-alttext-commons",
-      "repo": "Elyos-Projects/a11y-alttext-commons",
+      "repo": "Hee-Lee-Oss-Projects/a11y-alttext-commons",
       "description": "Alt-text & image descriptions for openly-licensed media, contributed upstream.",
       "domain": [
         "accessibility",
@@ -83,7 +83,7 @@
     },
     {
       "name": "open-data-datasheets",
-      "repo": "Elyos-Projects/open-data-datasheets",
+      "repo": "Hee-Lee-Oss-Projects/open-data-datasheets",
       "description": "Documentation & metadata that makes public open datasets reusable.",
       "domain": [
         "public-data",
@@ -99,7 +99,7 @@
     },
     {
       "name": "proper-prepper",
-      "repo": "Elyos-Projects/proper-prepper",
+      "repo": "Hee-Lee-Oss-Projects/proper-prepper",
       "description": "Offline-first, ad-free disaster-preparedness toolkit (PWA) + localized content.",
       "domain": [
         "public-safety",
@@ -116,7 +116,7 @@
     },
     {
       "name": "tool-atlas",
-      "repo": "Elyos-Projects/tool-atlas",
+      "repo": "Hee-Lee-Oss-Projects/tool-atlas",
       "description": "An open, structured atlas of tools and how to use them safely.",
       "domain": [
         "education",
@@ -133,7 +133,7 @@
     },
     {
       "name": "beacon-game",
-      "repo": "Elyos-Projects/beacon-game",
+      "repo": "Hee-Lee-Oss-Projects/beacon-game",
       "description": "An original game-with-a-purpose: play produces verified humanitarian/science image labels.",
       "domain": [
         "software",
@@ -150,7 +150,7 @@
     },
     {
       "name": "revolutionary-patriots-kg",
-      "repo": "Elyos-Projects/revolutionary-patriots-kg",
+      "repo": "Hee-Lee-Oss-Projects/revolutionary-patriots-kg",
       "description": "Open, linked knowledge graph of American Revolution patriots, built from public-domain sources.",
       "domain": [
         "open-history",
@@ -166,7 +166,7 @@
     },
     {
       "name": "public-official-guide",
-      "repo": "Elyos-Projects/public-official-guide",
+      "repo": "Hee-Lee-Oss-Projects/public-official-guide",
       "description": "Non-partisan AI guide helping public officials fulfill duties, serve constituents, and govern ethically.",
       "domain": [
         "civic",
@@ -185,7 +185,7 @@
     },
     {
       "name": "loc-public-domain-engine",
-      "repo": "Elyos-Projects/loc-public-domain-engine",
+      "repo": "Hee-Lee-Oss-Projects/loc-public-domain-engine",
       "description": "Rights-gate + polite API protocol over the Library of Congress, fanning cleared public-domain items into transcription/OCR/alt-text/translation/dataset work.",
       "domain": [
         "open-culture",
@@ -202,7 +202,7 @@
     },
     {
       "name": "open-data-explainers",
-      "repo": "Elyos-Projects/open-data-explainers",
+      "repo": "Hee-Lee-Oss-Projects/open-data-explainers",
       "description": "Plain-language explainers & lightweight tools built from verified open datasets; each module decomposes into per-region tasks.",
       "domain": [
         "public-data",
@@ -219,7 +219,7 @@
     },
     {
       "name": "literacy-from-zero",
-      "repo": "Elyos-Projects/literacy-from-zero",
+      "repo": "Hee-Lee-Oss-Projects/literacy-from-zero",
       "description": "Teach reading from absolute zero (print awareness -> phonics -> fluency) for a child or unschooled adult, fully internationalized.",
       "domain": [
         "education",
@@ -236,7 +236,7 @@
     },
     {
       "name": "irish-gaeilge-learning",
-      "repo": "Elyos-Projects/irish-gaeilge-learning",
+      "repo": "Hee-Lee-Oss-Projects/irish-gaeilge-learning",
       "description": "Structured Irish (Gaeilge) learning course (spoken + written, audio, CEFR-aligned) built to support language revitalization.",
       "domain": [
         "language",
@@ -253,7 +253,7 @@
     },
     {
       "name": "ewing-open-data-catalog",
-      "repo": "Elyos-Projects/ewing-open-data-catalog",
+      "repo": "Hee-Lee-Oss-Projects/ewing-open-data-catalog",
       "description": "Open, license-clear index + datasheets of open Ewing Sarcoma datasets. Open-access/aggregate/de-identified data only; controlled-access out of scope.",
       "domain": [
         "cancer",
@@ -271,7 +271,7 @@
     },
     {
       "name": "ewsr1-fli1-knowledge-graph",
-      "repo": "Elyos-Projects/ewsr1-fli1-knowledge-graph",
+      "repo": "Hee-Lee-Oss-Projects/ewsr1-fli1-knowledge-graph",
       "description": "Open knowledge graph of EWSR1-FLI1/ETS fusion biology for Ewing Sarcoma, synthesized from open sources with provenance on every assertion. No patient data.",
       "domain": [
         "cancer",
@@ -288,7 +288,7 @@
     },
     {
       "name": "numeracy-from-zero",
-      "repo": "Elyos-Projects/numeracy-from-zero",
+      "repo": "Hee-Lee-Oss-Projects/numeracy-from-zero",
       "description": "Teach number sense from absolute zero, fully internationalized, for a child or unschooled adult.",
       "domain": [
         "education",
@@ -305,7 +305,7 @@
     },
     {
       "name": "decodable-readers",
-      "repo": "Elyos-Projects/decodable-readers",
+      "repo": "Hee-Lee-Oss-Projects/decodable-readers",
       "description": "Open, phonics-aligned decodable storybooks for early reading, multilingual.",
       "domain": [
         "education",
@@ -321,7 +321,7 @@
     },
     {
       "name": "open-childrens-books",
-      "repo": "Elyos-Projects/open-childrens-books",
+      "repo": "Hee-Lee-Oss-Projects/open-childrens-books",
       "description": "Original, illustrated, openly-licensed children's picture books, multilingual.",
       "domain": [
         "education",
@@ -337,7 +337,7 @@
     },
     {
       "name": "oer-everything",
-      "repo": "Elyos-Projects/oer-everything",
+      "repo": "Hee-Lee-Oss-Projects/oer-everything",
       "description": "Open K-12 curriculum library spanning math/science/reading/CS, mapped to curriculum standards.",
       "domain": [
         "education",
@@ -353,7 +353,7 @@
     },
     {
       "name": "caption-commons",
-      "repo": "Elyos-Projects/caption-commons",
+      "repo": "Hee-Lee-Oss-Projects/caption-commons",
       "description": "Transcripts + captions for openly-licensed educational media; CC/PD sources only; contributed upstream.",
       "domain": [
         "accessibility",
@@ -369,7 +369,7 @@
     },
     {
       "name": "localization-for-good",
-      "repo": "Elyos-Projects/localization-for-good",
+      "repo": "Hee-Lee-Oss-Projects/localization-for-good",
       "description": "Open i18n string translation for nonprofit/civic OSS; native-speaker reviewed; respects upstream license/CLA.",
       "domain": [
         "language",
@@ -386,7 +386,7 @@
     },
     {
       "name": "public-domain-translations",
-      "repo": "Elyos-Projects/public-domain-translations",
+      "repo": "Hee-Lee-Oss-Projects/public-domain-translations",
       "description": "Translate public-domain literature into low-resource languages; PD sources verified; outputs openly licensed.",
       "domain": [
         "translation",
@@ -403,8 +403,8 @@
     },
     {
       "name": "translation-memory-commons",
-      "repo": "Elyos-Projects/translation-memory-commons",
-      "description": "Shared open translation-memory + glossary infrastructure reused across Elyos translation projects.",
+      "repo": "Hee-Lee-Oss-Projects/translation-memory-commons",
+      "description": "Shared open translation-memory + glossary infrastructure reused across Hee-Lee Oss translation projects.",
       "domain": [
         "translation",
         "software"
@@ -419,7 +419,7 @@
     },
     {
       "name": "open-pronunciation-audio",
-      "repo": "Elyos-Projects/open-pronunciation-audio",
+      "repo": "Hee-Lee-Oss-Projects/open-pronunciation-audio",
       "description": "Open pronunciation audio + IPA across languages, with provenance + speaker consent.",
       "domain": [
         "language",
@@ -435,7 +435,7 @@
     },
     {
       "name": "sign-glossary",
-      "repo": "Elyos-Projects/sign-glossary",
+      "repo": "Hee-Lee-Oss-Projects/sign-glossary",
       "description": "Open video/illustrated glossary of signs; Deaf-community reviewed; consent + attribution.",
       "domain": [
         "accessibility",
@@ -451,7 +451,7 @@
     },
     {
       "name": "easy-read-plus",
-      "repo": "Elyos-Projects/easy-read-plus",
+      "repo": "Hee-Lee-Oss-Projects/easy-read-plus",
       "description": "Plain-language easy-read + dyslexia-friendly versions of essential public information.",
       "domain": [
         "accessibility",
@@ -466,7 +466,7 @@
     },
     {
       "name": "heritage-recipes-open",
-      "repo": "Elyos-Projects/heritage-recipes-open",
+      "repo": "Hee-Lee-Oss-Projects/heritage-recipes-open",
       "description": "Preserve traditional/regional recipes as open structured data; attribution + community consent.",
       "domain": [
         "culture",
@@ -482,7 +482,7 @@
     },
     {
       "name": "historical-markers-index",
-      "repo": "Elyos-Projects/historical-markers-index",
+      "repo": "Hee-Lee-Oss-Projects/historical-markers-index",
       "description": "historical-markers-index",
       "domain": [
         "good-deed"
@@ -496,7 +496,7 @@
     },
     {
       "name": "public-domain-scores",
-      "repo": "Elyos-Projects/public-domain-scores",
+      "repo": "Hee-Lee-Oss-Projects/public-domain-scores",
       "description": "There is an enormous body of music that humanity collectively owns: every composition whose copyright has expired. Yet most of it is, in practice, *unusable as data*. It exists only as images — scanne",
       "domain": [
         "good-deed"
@@ -510,7 +510,7 @@
     },
     {
       "name": "world-folktales-open",
-      "repo": "Elyos-Projects/world-folktales-open",
+      "repo": "Hee-Lee-Oss-Projects/world-folktales-open",
       "description": "Folktales are public-domain at the level of the *ancient story*, but the artifacts people actually reuse online — a specific 1990s translation, a copyrighted anthology's selection and arrangement, a m",
       "domain": [
         "good-deed"
@@ -524,7 +524,7 @@
     },
     {
       "name": "urban-tree-inventory",
-      "repo": "Elyos-Projects/urban-tree-inventory",
+      "repo": "Hee-Lee-Oss-Projects/urban-tree-inventory",
       "description": "**urban-tree-inventory** is an open toolkit that lets communities map their urban trees and tree canopy in a consistent, license-clean, privacy-respecting way — and then actually *use* the result. It ",
       "domain": [
         "good-deed"
@@ -538,7 +538,7 @@
     },
     {
       "name": "home-energy-savings",
-      "repo": "Elyos-Projects/home-energy-savings",
+      "repo": "Hee-Lee-Oss-Projects/home-energy-savings",
       "description": "**home-energy-savings** is an open, **product-neutral** web app (installable PWA) that helps households spend less on energy and live in more comfortable homes. It pairs two things: (1) a body of **pl",
       "domain": [
         "good-deed"
@@ -552,7 +552,7 @@
     },
     {
       "name": "open-gardening-guides",
-      "repo": "Elyos-Projects/open-gardening-guides",
+      "repo": "Hee-Lee-Oss-Projects/open-gardening-guides",
       "description": "**open-gardening-guides** turns spare AI capacity into a free, open, **climate-zone-aware** body of food-growing guidance for households and communities working to feed themselves. Its purpose is narr",
       "domain": [
         "good-deed"
@@ -566,7 +566,7 @@
     },
     {
       "name": "first-aid-open",
-      "repo": "Elyos-Projects/first-aid-open",
+      "repo": "Hee-Lee-Oss-Projects/first-aid-open",
       "description": "first-aid-open",
       "domain": [
         "good-deed"
@@ -580,7 +580,7 @@
     },
     {
       "name": "food-safety-open",
-      "repo": "Elyos-Projects/food-safety-open",
+      "repo": "Hee-Lee-Oss-Projects/food-safety-open",
       "description": "**food-safety-open** is an open, machine-readable knowledge base of practical **home** food-safety and storage guidance — refrigerator and freezer storage times, the \"Danger Zone\" and the two-hour rul",
       "domain": [
         "good-deed"
@@ -594,7 +594,7 @@
     },
     {
       "name": "wash-guides",
-      "repo": "Elyos-Projects/wash-guides",
+      "repo": "Hee-Lee-Oss-Projects/wash-guides",
       "description": "**wash-guides** is an open, multilingual, freely-reusable body of practical **water, sanitation and hygiene (WASH)** how-tos — handwashing, household water treatment and safe storage, safe sanitation ",
       "domain": [
         "good-deed"
@@ -608,7 +608,7 @@
     },
     {
       "name": "community-resource-maps",
-      "repo": "Elyos-Projects/community-resource-maps",
+      "repo": "Hee-Lee-Oss-Projects/community-resource-maps",
       "description": "**community-resource-maps** is an open, region-scoped directory of essential community help — **food banks and pantries, free and charitable clinics, shelters, and support services** — that is **verif",
       "domain": [
         "good-deed"
@@ -622,7 +622,7 @@
     },
     {
       "name": "digital-literacy-seniors",
-      "repo": "Elyos-Projects/digital-literacy-seniors",
+      "repo": "Hee-Lee-Oss-Projects/digital-literacy-seniors",
       "description": "**digital-literacy-seniors** is an open, accessible, facilitator-ready **curriculum** that teaches older adults the practical basics of using devices and the internet — and, critically, how to recogni",
       "domain": [
         "good-deed"
@@ -636,7 +636,7 @@
     },
     {
       "name": "repair-cafe-kits",
-      "repo": "Elyos-Projects/repair-cafe-kits",
+      "repo": "Hee-Lee-Oss-Projects/repair-cafe-kits",
       "description": "**repair-cafe-kits** is an openly-licensed body of practical, remixable content — plus a light, printable delivery layer — that lets **anyone, anywhere run a community repair event** and safely **tria",
       "domain": [
         "good-deed"
@@ -650,7 +650,7 @@
     },
     {
       "name": "read-aloud-audio",
-      "repo": "Elyos-Projects/read-aloud-audio",
+      "repo": "Hee-Lee-Oss-Projects/read-aloud-audio",
       "description": "Hundreds of thousands of openly-licensed and public-domain texts — Project Gutenberg classics, Standard Ebooks editions, Wikisource transcriptions, OpenStax and other open textbooks, CC-licensed child",
       "domain": [
         "good-deed"
@@ -664,7 +664,7 @@
     },
     {
       "name": "handwriting-practice",
-      "repo": "Elyos-Projects/handwriting-practice",
+      "repo": "Hee-Lee-Oss-Projects/handwriting-practice",
       "description": "handwriting-practice",
       "domain": [
         "good-deed"
@@ -678,7 +678,7 @@
     },
     {
       "name": "math-manipulatives-printables",
-      "repo": "Elyos-Projects/math-manipulatives-printables",
+      "repo": "Hee-Lee-Oss-Projects/math-manipulatives-printables",
       "description": "Concrete manipulatives — counters, number lines, fraction tiles, base-ten blocks — are one of the best-evidenced tools in early and elementary mathematics: they let a learner *see and touch* the quant",
       "domain": [
         "good-deed"
@@ -692,7 +692,7 @@
     },
     {
       "name": "teacher-lesson-plans",
-      "repo": "Elyos-Projects/teacher-lesson-plans",
+      "repo": "Hee-Lee-Oss-Projects/teacher-lesson-plans",
       "description": "Open Educational Resources (OER) are abundant but rarely *teachable as-is*. A teacher who finds an openly-licensed reading passage, a simulation, or a problem set still has to do the hard, unpaid work",
       "domain": [
         "good-deed"
@@ -706,7 +706,7 @@
     },
     {
       "name": "quiz-bank-open",
-      "repo": "Elyos-Projects/quiz-bank-open",
+      "repo": "Hee-Lee-Oss-Projects/quiz-bank-open",
       "description": "Open Educational Resources (OER) — openly licensed textbooks, modules, and courseware — give the world free *content*, but they are chronically short of the thing that turns reading into learning: **g",
       "domain": [
         "good-deed"
@@ -720,7 +720,7 @@
     },
     {
       "name": "curriculum-standards-map",
-      "repo": "Elyos-Projects/curriculum-standards-map",
+      "repo": "Hee-Lee-Oss-Projects/curriculum-standards-map",
       "description": "Teachers and curriculum coordinators waste enormous time answering one deceptively simple question: *\"Which openly-licensed resource actually teaches the standard I have to cover this week?\"* Open Edu",
       "domain": [
         "good-deed"
@@ -734,8 +734,8 @@
     },
     {
       "name": "open-transliteration",
-      "repo": "Elyos-Projects/open-transliteration",
-      "description": "`open-transliteration` is an Elyos good-deed project that produces **open, machine-readable transliteration data and a reference engine** for converting text between writing systems — beginning with *",
+      "repo": "Hee-Lee-Oss-Projects/open-transliteration",
+      "description": "`open-transliteration` is a Hee-Lee Oss good-deed project that produces **open, machine-readable transliteration data and a reference engine** for converting text between writing systems — beginning with *",
       "domain": [
         "good-deed"
       ],
@@ -748,8 +748,8 @@
     },
     {
       "name": "keyboard-layouts-open",
-      "repo": "Elyos-Projects/keyboard-layouts-open",
-      "description": "`keyboard-layouts-open` is an Elyos good-deed project that builds **open, standards-based input methods (keyboard layouts) for under-served languages and scripts** — the languages whose speakers canno",
+      "repo": "Hee-Lee-Oss-Projects/keyboard-layouts-open",
+      "description": "`keyboard-layouts-open` is a Hee-Lee Oss good-deed project that builds **open, standards-based input methods (keyboard layouts) for under-served languages and scripts** — the languages whose speakers canno",
       "domain": [
         "good-deed"
       ],
@@ -762,7 +762,7 @@
     },
     {
       "name": "open-accessible-fonts",
-      "repo": "Elyos-Projects/open-accessible-fonts",
+      "repo": "Hee-Lee-Oss-Projects/open-accessible-fonts",
       "description": "open-accessible-fonts",
       "domain": [
         "good-deed"
@@ -776,7 +776,7 @@
     },
     {
       "name": "place-name-pronunciation",
-      "repo": "Elyos-Projects/place-name-pronunciation",
+      "repo": "Hee-Lee-Oss-Projects/place-name-pronunciation",
       "description": "Place names are mispronounced constantly — by newcomers, broadcasters, emergency dispatchers, navigation and screen-reader software, language learners, and diaspora reconnecting with heritage. A name ",
       "domain": [
         "good-deed"
@@ -790,7 +790,7 @@
     },
     {
       "name": "braille-ready-texts",
-      "repo": "Elyos-Projects/braille-ready-texts",
+      "repo": "Hee-Lee-Oss-Projects/braille-ready-texts",
       "description": "A blind or deafblind person who reads braille has access to a vanishingly small fraction of the world's written work. Estimates vary by country, but the share of published titles ever produced in brai",
       "domain": [
         "good-deed"
@@ -804,7 +804,7 @@
     },
     {
       "name": "open-pictograms",
-      "repo": "Elyos-Projects/open-pictograms",
+      "repo": "Hee-Lee-Oss-Projects/open-pictograms",
       "description": "When you cannot read the local language — because you never learned to read, because you read at a basic level, because you have a cognitive or communication disability, or because you just arrived in",
       "domain": [
         "good-deed"
@@ -818,7 +818,7 @@
     },
     {
       "name": "open-spending-explainers",
-      "repo": "Elyos-Projects/open-spending-explainers",
+      "repo": "Hee-Lee-Oss-Projects/open-spending-explainers",
       "description": "Public budgets and contracts are, in principle, open. In practice they are inaccessible: hundreds of pages of fund-accounting tables, inconsistent fiscal years, nominal-vs-real confusion, and contract",
       "domain": [
         "good-deed"
@@ -832,7 +832,7 @@
     },
     {
       "name": "citizen-science-pipelines",
-      "repo": "Elyos-Projects/citizen-science-pipelines",
+      "repo": "Hee-Lee-Oss-Projects/citizen-science-pipelines",
       "description": "Citizen-science projects — biodiversity observation networks, community air-quality and water-quality monitoring, phenology and weather logging, transcription and astronomy classification efforts — co",
       "domain": [
         "good-deed"
@@ -846,7 +846,7 @@
     },
     {
       "name": "open-map-gaps",
-      "repo": "Elyos-Projects/open-map-gaps",
+      "repo": "Hee-Lee-Oss-Projects/open-map-gaps",
       "description": "In large parts of the world the basic map does not exist. Buildings, roads, health facilities, schools, and water points that humanitarian responders need to plan a vaccination campaign, route an ambu",
       "domain": [
         "good-deed"
@@ -860,7 +860,7 @@
     },
     {
       "name": "local-history-stubs",
-      "repo": "Elyos-Projects/local-history-stubs",
+      "repo": "Hee-Lee-Oss-Projects/local-history-stubs",
       "description": "local-history-stubs",
       "domain": [
         "good-deed"
@@ -874,7 +874,7 @@
     },
     {
       "name": "genealogy-public-records",
-      "repo": "Elyos-Projects/genealogy-public-records",
+      "repo": "Hee-Lee-Oss-Projects/genealogy-public-records",
       "description": "Family history is one of the most popular research pursuits in the world, yet the structured, machine-readable data that powers it lives almost entirely inside **proprietary, paywalled databases** — A",
       "domain": [
         "good-deed"
@@ -888,7 +888,7 @@
     },
     {
       "name": "fact-check-toolkit",
-      "repo": "Elyos-Projects/fact-check-toolkit",
+      "repo": "Hee-Lee-Oss-Projects/fact-check-toolkit",
       "description": "The information ecosystem is flooded with claims faster than any newsroom, library, classroom, or civic group can check them, and the people best placed to check — local journalists, librarians, educa",
       "domain": [
         "good-deed"
@@ -902,7 +902,7 @@
     },
     {
       "name": "oer-science-labs",
-      "repo": "Elyos-Projects/oer-science-labs",
+      "repo": "Hee-Lee-Oss-Projects/oer-science-labs",
       "description": "**oer-science-labs** is an open library of **no-/low-cost, hands-on science experiment guides** for K–12 and early-college learners, each **aligned to curriculum standards** and **safety-reviewed for ",
       "domain": [
         "good-deed"
@@ -916,7 +916,7 @@
     },
     {
       "name": "open-coding-curriculum",
-      "repo": "Elyos-Projects/open-coding-curriculum",
+      "repo": "Hee-Lee-Oss-Projects/open-coding-curriculum",
       "description": "**open-coding-curriculum** is an open library of beginner programming lessons paired with **graded exercises and runnable examples**, spanning multiple languages (Python first, then JavaScript, then a",
       "domain": [
         "good-deed"
@@ -930,7 +930,7 @@
     },
     {
       "name": "civics-exam-prep",
-      "repo": "Elyos-Projects/civics-exam-prep",
+      "repo": "Hee-Lee-Oss-Projects/civics-exam-prep",
       "description": "Passing a high-stakes exam is often the single gate between a person and citizenship, a diploma, a job, or college. The two exams in scope are *gateways for exactly the people least able to pay for pr",
       "domain": [
         "good-deed"
@@ -944,7 +944,7 @@
     },
     {
       "name": "open-flashcards",
-      "repo": "Elyos-Projects/open-flashcards",
+      "repo": "Hee-Lee-Oss-Projects/open-flashcards",
       "description": "Spaced repetition is one of the few learning techniques with strong, replicated evidence behind it — and Anki is its most widely used open-source vehicle. Yet the public deck ecosystem has a quiet int",
       "domain": [
         "good-deed"
@@ -958,7 +958,7 @@
     },
     {
       "name": "financial-literacy-open",
-      "repo": "Elyos-Projects/financial-literacy-open",
+      "repo": "Hee-Lee-Oss-Projects/financial-literacy-open",
       "description": "Low financial literacy is widespread and consequential: people pay avoidable fees and interest, fall for scams and predatory products, lack emergency savings, and carry debt they do not understand — a",
       "domain": [
         "good-deed"
@@ -972,7 +972,7 @@
     },
     {
       "name": "climate-adaptation-guides",
-      "repo": "Elyos-Projects/climate-adaptation-guides",
+      "repo": "Hee-Lee-Oss-Projects/climate-adaptation-guides",
       "description": "**climate-adaptation-guides** is an open commons of **practical, region-specific, evidence-based climate-adaptation and resilience playbooks** — step-by-step \"how a community actually does this\" guide",
       "domain": [
         "good-deed"
@@ -986,7 +986,7 @@
     },
     {
       "name": "multilingual-signage-templates",
-      "repo": "Elyos-Projects/multilingual-signage-templates",
+      "repo": "Hee-Lee-Oss-Projects/multilingual-signage-templates",
       "description": "When someone walks into an unfamiliar clinic, an emergency shelter, or a new school and does not read the local language well, the building stops speaking to them. Where is registration? Which door is",
       "domain": [
         "good-deed"
@@ -1000,8 +1000,8 @@
     },
     {
       "name": "multilingual-museum-labels",
-      "repo": "Elyos-Projects/multilingual-museum-labels",
-      "description": "`multilingual-museum-labels` is an Elyos good-deed project that produces **plain-language, multilingual object descriptions** (\"labels,\" \"wall text,\" \"gallery cards\") for **small, under-resourced muse",
+      "repo": "Hee-Lee-Oss-Projects/multilingual-museum-labels",
+      "description": "`multilingual-museum-labels` is a Hee-Lee Oss good-deed project that produces **plain-language, multilingual object descriptions** (\"labels,\" \"wall text,\" \"gallery cards\") for **small, under-resourced muse",
       "domain": [
         "good-deed"
       ],
@@ -1014,8 +1014,8 @@
     },
     {
       "name": "emergency-phrasebooks",
-      "repo": "Elyos-Projects/emergency-phrasebooks",
-      "description": "`emergency-phrasebooks` is an Elyos good-deed project that produces **pre-translated, expert-reviewed emergency phrase packs** — short, action-oriented utterances that let a **first responder or front",
+      "repo": "Hee-Lee-Oss-Projects/emergency-phrasebooks",
+      "description": "`emergency-phrasebooks` is a Hee-Lee Oss good-deed project that produces **pre-translated, expert-reviewed emergency phrase packs** — short, action-oriented utterances that let a **first responder or front",
       "domain": [
         "good-deed"
       ],
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "media-literacy-curriculum",
-      "repo": "Elyos-Projects/media-literacy-curriculum",
+      "repo": "Hee-Lee-Oss-Projects/media-literacy-curriculum",
       "description": "Misinformation harms real people: it drives unsafe health decisions, fuels scams and financial loss, erodes trust in institutions across the political spectrum, and falls hardest on people with the le",
       "domain": [
         "good-deed"
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "know-your-rights",
-      "repo": "Elyos-Projects/know-your-rights",
+      "repo": "Hee-Lee-Oss-Projects/know-your-rights",
       "description": "People facing eviction, wage theft, unsafe work, discrimination, or a law-enforcement encounter routinely make irreversible decisions without knowing the rights the law already grants them. Authoritat",
       "domain": [
         "good-deed"
@@ -1056,7 +1056,7 @@
     },
     {
       "name": "food-assistance-maps",
-      "repo": "Elyos-Projects/food-assistance-maps",
+      "repo": "Hee-Lee-Oss-Projects/food-assistance-maps",
       "description": "**food-assistance-maps** is an open, **freshness-tracked directory dataset** of food banks, food pantries, community fridges, soup kitchens / hot-meal programs, school and summer meal sites, and relat",
       "domain": [
         "good-deed"
@@ -1070,7 +1070,7 @@
     },
     {
       "name": "food-security-briefs",
-      "repo": "Elyos-Projects/food-security-briefs",
+      "repo": "Hee-Lee-Oss-Projects/food-security-briefs",
       "description": "The Food and Agriculture Organization of the United Nations (FAO) publishes FAOSTAT, one of the largest open statistical corpora on food, agriculture, nutrition, trade, and food security — over 245 co",
       "domain": [
         "good-deed"
@@ -1084,7 +1084,7 @@
     },
     {
       "name": "water-quality-explainers",
-      "repo": "Elyos-Projects/water-quality-explainers",
+      "repo": "Hee-Lee-Oss-Projects/water-quality-explainers",
       "description": "**water-quality-explainers** turns open, authoritative drinking-water data into calm, plain-language explainers that help an ordinary person understand **what the public record says about their local ",
       "domain": [
         "good-deed"
@@ -1098,7 +1098,7 @@
     },
     {
       "name": "benefits-navigator",
-      "repo": "Elyos-Projects/benefits-navigator",
+      "repo": "Hee-Lee-Oss-Projects/benefits-navigator",
       "description": "Tens of millions of people are eligible for public-assistance programs — SNAP (food assistance), Medicaid/CHIP, WIC, TANF, LIHEAP (energy help), SSI, housing assistance, the EITC, school meals, Lifeli",
       "domain": [
         "good-deed"
@@ -1112,7 +1112,7 @@
     },
     {
       "name": "microbusiness-toolkit",
-      "repo": "Elyos-Projects/microbusiness-toolkit",
+      "repo": "Hee-Lee-Oss-Projects/microbusiness-toolkit",
       "description": "**microbusiness-toolkit** is an open, reusable library of **plain-language guides and fill-in templates** for informal and very small entrepreneurs — market traders, home-based makers, single-person s",
       "domain": [
         "good-deed"
@@ -1126,7 +1126,7 @@
     },
     {
       "name": "atltuae",
-      "repo": "Elyos-Projects/atltuae",
+      "repo": "Hee-Lee-Oss-Projects/atltuae",
       "description": "The world does not lack answers; it lacks *honest maps of how much we actually know and how much we do not.* Synthesis engines and \"research agents\" today optimize for the confident-sounding final out",
       "domain": [
         "good-deed"
@@ -1140,7 +1140,7 @@
     },
     {
       "name": "bigger-pi",
-      "repo": "Elyos-Projects/bigger-pi",
+      "repo": "Hee-Lee-Oss-Projects/bigger-pi",
       "description": "**bigger-pi** is an open, distributed, **verification-first** effort to compute more digits of π on donated compute. The intrinsic value of \"more digits\" is modest; the public good is the **open, repr",
       "domain": [
         "good-deed"
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "ewing-literature-corpus",
-      "repo": "Elyos-Projects/ewing-literature-corpus",
+      "repo": "Hee-Lee-Oss-Projects/ewing-literature-corpus",
       "description": "Ewing sarcoma research is published across thousands of articles, but the knowledge is locked in unstructured prose, inconsistent terminology, and paywalls. Researchers — especially the small labs and",
       "domain": [
         "good-deed"
@@ -1168,7 +1168,7 @@
     },
     {
       "name": "ewing-expression-reanalysis",
-      "repo": "Elyos-Projects/ewing-expression-reanalysis",
+      "repo": "Hee-Lee-Oss-Projects/ewing-expression-reanalysis",
       "description": "Ewing Sarcoma is a rare, aggressive bone-and-soft-tissue cancer that mostly strikes children, teenagers, and young adults. It is driven in ~85% of cases by the **EWSR1-FLI1** fusion oncogene (and in m",
       "domain": [
         "good-deed"
@@ -1182,7 +1182,7 @@
     },
     {
       "name": "ewing-fusion-detection-benchmark",
-      "repo": "Elyos-Projects/ewing-fusion-detection-benchmark",
+      "repo": "Hee-Lee-Oss-Projects/ewing-fusion-detection-benchmark",
       "description": "ewing-fusion-detection-benchmark",
       "domain": [
         "good-deed"
@@ -1196,7 +1196,7 @@
     },
     {
       "name": "ewing-cell-line-catalog",
-      "repo": "Elyos-Projects/ewing-cell-line-catalog",
+      "repo": "Hee-Lee-Oss-Projects/ewing-cell-line-catalog",
       "description": "Ewing sarcoma research runs on a small number of immortalized **cell-line models** (A673, SK-ES-1, RD-ES, TC-71, TC-32, SK-N-MC, EW8, CHLA-9/10/25, and roughly two dozen others). These models, and the",
       "domain": [
         "good-deed"
@@ -1210,7 +1210,7 @@
     },
     {
       "name": "ewing-pdx-model-index",
-      "repo": "Elyos-Projects/ewing-pdx-model-index",
+      "repo": "Hee-Lee-Oss-Projects/ewing-pdx-model-index",
       "description": "ewing-pdx-model-index",
       "domain": [
         "good-deed"
@@ -1224,7 +1224,7 @@
     },
     {
       "name": "ewing-single-cell-atlas",
-      "repo": "Elyos-Projects/ewing-single-cell-atlas",
+      "repo": "Hee-Lee-Oss-Projects/ewing-single-cell-atlas",
       "description": "ewing-single-cell-atlas",
       "domain": [
         "good-deed"
@@ -1238,7 +1238,7 @@
     },
     {
       "name": "ewing-drug-target-evidence",
-      "repo": "Elyos-Projects/ewing-drug-target-evidence",
+      "repo": "Hee-Lee-Oss-Projects/ewing-drug-target-evidence",
       "description": "Ewing Sarcoma is driven in most cases by a single defining event — an **EWSR1-FLI1** (or related EWSR1-ETS) gene fusion — yet that driver has proven extraordinarily hard to drug directly, and outcomes",
       "domain": [
         "good-deed"
@@ -1252,7 +1252,7 @@
     },
     {
       "name": "ewing-trial-finder",
-      "repo": "Elyos-Projects/ewing-trial-finder",
+      "repo": "Hee-Lee-Oss-Projects/ewing-trial-finder",
       "description": "Ewing sarcoma is a rare, aggressive bone-and-soft-tissue cancer that most often strikes children, adolescents, and young adults. Because it is rare, standard-of-care options are limited and clinical t",
       "domain": [
         "good-deed"
@@ -1266,7 +1266,7 @@
     },
     {
       "name": "ewing-eligibility-structuring",
-      "repo": "Elyos-Projects/ewing-eligibility-structuring",
+      "repo": "Hee-Lee-Oss-Projects/ewing-eligibility-structuring",
       "description": "Ewing sarcoma is a rare bone/soft-tissue cancer that strikes mostly children, adolescents, and young adults (AYA), driven in ~85% of cases by the *EWSR1–FLI1* fusion (and related *EWSR1–ETS* fusions).",
       "domain": [
         "good-deed"
@@ -1280,7 +1280,7 @@
     },
     {
       "name": "ewing-family-guide",
-      "repo": "Elyos-Projects/ewing-family-guide",
+      "repo": "Hee-Lee-Oss-Projects/ewing-family-guide",
       "description": "A family hears the words \"Ewing sarcoma\" and the ground disappears. It is rare (roughly 1 in a million per year; ~200 new cases/year in the US, ~similar in the EU), it is aggressive, the treatment is ",
       "domain": [
         "good-deed"
@@ -1294,8 +1294,8 @@
     },
     {
       "name": "ewing-info-translations",
-      "repo": "Elyos-Projects/ewing-info-translations",
-      "description": "`ewing-info-translations` is an Elyos good-deed project that translates **already-vetted, authoritative patient-and-family education about Ewing Sarcoma** — sourced exclusively from credentialed bodie",
+      "repo": "Hee-Lee-Oss-Projects/ewing-info-translations",
+      "description": "`ewing-info-translations` is a Hee-Lee Oss good-deed project that translates **already-vetted, authoritative patient-and-family education about Ewing Sarcoma** — sourced exclusively from credentialed bodie",
       "domain": [
         "good-deed"
       ],
@@ -1308,7 +1308,7 @@
     },
     {
       "name": "ewing-survivorship-late-effects",
-      "repo": "Elyos-Projects/ewing-survivorship-late-effects",
+      "repo": "Hee-Lee-Oss-Projects/ewing-survivorship-late-effects",
       "description": "Ewing sarcoma is a rare bone-and-soft-tissue cancer that disproportionately strikes children, adolescents, and young adults. Survival has improved markedly, which means a growing population of survivo",
       "domain": [
         "good-deed"
@@ -1322,7 +1322,7 @@
     },
     {
       "name": "ewing-registry-standards",
-      "repo": "Elyos-Projects/ewing-registry-standards",
+      "repo": "Hee-Lee-Oss-Projects/ewing-registry-standards",
       "description": "ewing-registry-standards",
       "domain": [
         "good-deed"
@@ -1336,7 +1336,7 @@
     },
     {
       "name": "ewing-outcomes-harmonization",
-      "repo": "Elyos-Projects/ewing-outcomes-harmonization",
+      "repo": "Hee-Lee-Oss-Projects/ewing-outcomes-harmonization",
       "description": "Ewing Sarcoma (ES) outcomes are reported across decades of clinical trials and cohort studies, but the published numbers are **not directly comparable**. Studies differ in how they define an \"event\" (",
       "domain": [
         "good-deed"
@@ -1350,7 +1350,7 @@
     },
     {
       "name": "ewing-biomarker-evidence-cards",
-      "repo": "Elyos-Projects/ewing-biomarker-evidence-cards",
+      "repo": "Hee-Lee-Oss-Projects/ewing-biomarker-evidence-cards",
       "description": "Ewing Sarcoma is a rare, aggressive bone-and-soft-tissue cancer with a peak incidence in adolescents and young adults. Its defining molecular feature — a fusion of *EWSR1* with an ETS-family transcrip",
       "domain": [
         "good-deed"
@@ -1364,7 +1364,7 @@
     },
     {
       "name": "ewing-immunotherapy-target-catalog",
-      "repo": "Elyos-Projects/ewing-immunotherapy-target-catalog",
+      "repo": "Hee-Lee-Oss-Projects/ewing-immunotherapy-target-catalog",
       "description": "Ewing sarcoma is driven in ~85–90% of cases by the **EWSR1-FLI1** fusion oncoprotein (or related EWSR1-ETS fusions). It is rare (~1 per million per year), disproportionately affects adolescents and yo",
       "domain": [
         "good-deed"
@@ -1378,7 +1378,7 @@
     },
     {
       "name": "ewing-reproducibility",
-      "repo": "Elyos-Projects/ewing-reproducibility",
+      "repo": "Hee-Lee-Oss-Projects/ewing-reproducibility",
       "description": "A large and growing share of cancer research is computational, yet an alarming fraction of published analyses cannot be independently re-run: code is missing or unversioned, software environments are ",
       "domain": [
         "good-deed"
@@ -1392,7 +1392,7 @@
     },
     {
       "name": "ewing-research-landscape",
-      "repo": "Elyos-Projects/ewing-research-landscape",
+      "repo": "Hee-Lee-Oss-Projects/ewing-research-landscape",
       "description": "There is no open, queryable, source-linked map of the Ewing Sarcoma research landscape. The information exists — in NIH RePORTER, the EU's CORDIS, UKRI's Gateway to Research, the trial registries, Ope",
       "domain": [
         "good-deed"
@@ -1406,7 +1406,7 @@
     },
     {
       "name": "cancer-dataset-datasheets",
-      "repo": "Elyos-Projects/cancer-dataset-datasheets",
+      "repo": "Hee-Lee-Oss-Projects/cancer-dataset-datasheets",
       "description": "Open cancer datasets — The Cancer Genome Atlas (TCGA, via the NCI Genomic Data Commons / GDC), the Gene Expression Omnibus (GEO), cBioPortal, and the Cancer Dependency Map (DepMap) — are among the mos",
       "domain": [
         "good-deed"
@@ -1420,7 +1420,7 @@
     },
     {
       "name": "cancer-data-dictionaries",
-      "repo": "Elyos-Projects/cancer-data-dictionaries",
+      "repo": "Hee-Lee-Oss-Projects/cancer-data-dictionaries",
       "description": "Public cancer datasets are a foundational resource for research, yet they are routinely shipped with documentation that is incomplete, cryptic, or scattered across PDFs, wikis, and coding manuals. A r",
       "domain": [
         "good-deed"
@@ -1434,7 +1434,7 @@
     },
     {
       "name": "open-cohort-catalog",
-      "repo": "Elyos-Projects/open-cohort-catalog",
+      "repo": "Hee-Lee-Oss-Projects/open-cohort-catalog",
       "description": "Cancer research generates an enormous, growing body of **open** data — gene-expression series, open-tier somatic mutation calls, proteogenomics, cell-line dependency maps, and aggregate incidence/outc",
       "domain": [
         "good-deed"
@@ -1448,7 +1448,7 @@
     },
     {
       "name": "pmc-oa-cancer-corpus",
-      "repo": "Elyos-Projects/pmc-oa-cancer-corpus",
+      "repo": "Hee-Lee-Oss-Projects/pmc-oa-cancer-corpus",
       "description": "Cancer research moves fast and is scattered across hundreds of journals. Researchers, data scientists, patient advocates, and tool builders who want a clean, license-clear, reproducible slice of the *",
       "domain": [
         "good-deed"
@@ -1462,7 +1462,7 @@
     },
     {
       "name": "oncogene-knowledge-graph",
-      "repo": "Elyos-Projects/oncogene-knowledge-graph",
+      "repo": "Hee-Lee-Oss-Projects/oncogene-knowledge-graph",
       "description": "Cancer is a disease of the genome. A clinician or researcher trying to understand a single tumor alteration — say *BRAF* V600E in melanoma — must today stitch together facts from a dozen disconnected ",
       "domain": [
         "good-deed"
@@ -1476,7 +1476,7 @@
     },
     {
       "name": "biomarker-extraction",
-      "repo": "Elyos-Projects/biomarker-extraction",
+      "repo": "Hee-Lee-Oss-Projects/biomarker-extraction",
       "description": "The cancer literature contains an enormous, growing body of **biomarker–outcome statements** — \"high *X* expression is associated with worse overall survival in *Y* cancer\", \"*Z* mutation predicts res",
       "domain": [
         "good-deed"
@@ -1490,7 +1490,7 @@
     },
     {
       "name": "systematic-review-assist",
-      "repo": "Elyos-Projects/systematic-review-assist",
+      "repo": "Hee-Lee-Oss-Projects/systematic-review-assist",
       "description": "A systematic review is the backbone of evidence-based oncology: it defines a clinical question, searches the literature exhaustively, screens thousands of records down to the eligible studies, extract",
       "domain": [
         "good-deed"
@@ -1504,7 +1504,7 @@
     },
     {
       "name": "drug-target-evidence-cards",
-      "repo": "Elyos-Projects/drug-target-evidence-cards",
+      "repo": "Hee-Lee-Oss-Projects/drug-target-evidence-cards",
       "description": "Cancer-target research is bottlenecked not by a shortage of data but by its fragmentation. The evidence that a given gene/protein is a credible therapeutic target in a given cancer — genetic associati",
       "domain": [
         "good-deed"
@@ -1518,7 +1518,7 @@
     },
     {
       "name": "proteomics-reanalysis",
-      "repo": "Elyos-Projects/proteomics-reanalysis",
+      "repo": "Hee-Lee-Oss-Projects/proteomics-reanalysis",
       "description": "Most published cancer-proteomics results are effectively irreproducible by a third party. The raw data is increasingly deposited openly (PRIDE/ProteomeXchange now hold tens of thousands of datasets), ",
       "domain": [
         "good-deed"
@@ -1532,7 +1532,7 @@
     },
     {
       "name": "ml-oncology-benchmarks",
-      "repo": "Elyos-Projects/ml-oncology-benchmarks",
+      "repo": "Hee-Lee-Oss-Projects/ml-oncology-benchmarks",
       "description": "Machine-learning results in oncology are widely irreproducible and routinely **over-optimistic**. The dominant cause is not weak models but **data leakage**: feature selection or normalization perform",
       "domain": [
         "good-deed"
@@ -1546,7 +1546,7 @@
     },
     {
       "name": "synthetic-cancer-data",
-      "repo": "Elyos-Projects/synthetic-cancer-data",
+      "repo": "Hee-Lee-Oss-Projects/synthetic-cancer-data",
       "description": "Cancer-method development has a chicken-and-egg problem. The realistic individual-level data that makes a new algorithm, pipeline, or teaching exercise credible (TCGA-scale clinical+genomic records) i",
       "domain": [
         "good-deed"
@@ -1556,12 +1556,12 @@
       "tags": [
         "needs-partner"
       ],
-      "definitionOfShipped": "modalities, each with a complete data card and an **independent privacy audit**; a published privacy-and-utility evaluation harness; **drop-in CI fixtures**; and **at least one downstream adopter that has actually used the synthetic data** in method/teaching/CI work. Per Elyos, *"
+      "definitionOfShipped": "modalities, each with a complete data card and an **independent privacy audit**; a published privacy-and-utility evaluation harness; **drop-in CI fixtures**; and **at least one downstream adopter that has actually used the synthetic data** in method/teaching/CI work. Per Hee-Lee Oss, *"
     },
     {
       "name": "oncology-glossary-multilingual",
-      "repo": "Elyos-Projects/oncology-glossary-multilingual",
-      "description": "`oncology-glossary-multilingual` is an Elyos good-deed project that builds an **open, multilingual, plain-language glossary of oncology and clinical-trial terminology for patients and caregivers** — t",
+      "repo": "Hee-Lee-Oss-Projects/oncology-glossary-multilingual",
+      "description": "`oncology-glossary-multilingual` is a Hee-Lee Oss good-deed project that builds an **open, multilingual, plain-language glossary of oncology and clinical-trial terminology for patients and caregivers** — t",
       "domain": [
         "good-deed"
       ],
@@ -1574,7 +1574,7 @@
     },
     {
       "name": "survivorship-resources",
-      "repo": "Elyos-Projects/survivorship-resources",
+      "repo": "Hee-Lee-Oss-Projects/survivorship-resources",
       "description": "Cancer survivors — people who have finished primary treatment — enter a long, under-supported phase of life. They face **late and long-term effects** (cardiotoxicity, second cancers, fertility and end",
       "domain": [
         "good-deed"
@@ -1588,8 +1588,8 @@
     },
     {
       "name": "question-prompt-lists",
-      "repo": "Elyos-Projects/question-prompt-lists",
-      "description": "`question-prompt-lists` is an Elyos good-deed project that produces **open, freely reusable \"questions to ask your oncologist\" prompt sets**, organized by **topic** (e.g., understanding the diagnosis,",
+      "repo": "Hee-Lee-Oss-Projects/question-prompt-lists",
+      "description": "`question-prompt-lists` is a Hee-Lee Oss good-deed project that produces **open, freely reusable \"questions to ask your oncologist\" prompt sets**, organized by **topic** (e.g., understanding the diagnosis,",
       "domain": [
         "good-deed"
       ],
@@ -1602,7 +1602,7 @@
     },
     {
       "name": "nutrition-during-treatment",
-      "repo": "Elyos-Projects/nutrition-during-treatment",
+      "repo": "Hee-Lee-Oss-Projects/nutrition-during-treatment",
       "description": "People in cancer treatment face nutrition problems that materially change outcomes: treatment-induced nausea, mucositis (sore mouth), taste changes, appetite loss, diarrhea/constipation, dysphagia, an",
       "domain": [
         "good-deed"
@@ -1616,7 +1616,7 @@
     },
     {
       "name": "incidence-explorers",
-      "repo": "Elyos-Projects/incidence-explorers",
+      "repo": "Hee-Lee-Oss-Projects/incidence-explorers",
       "description": "Cancer statistics are everywhere and almost universally misread. A headline that \"cancer X is rising\" usually conflates more screening with more disease; \"rates\" get confused with \"counts\"; modeled GL",
       "domain": [
         "good-deed"
@@ -1630,7 +1630,7 @@
     },
     {
       "name": "disparities-analysis",
-      "repo": "Elyos-Projects/disparities-analysis",
+      "repo": "Hee-Lee-Oss-Projects/disparities-analysis",
       "description": "Cancer does not fall evenly. People in some racial and ethnic groups, some geographies, and some socioeconomic conditions are diagnosed later, treated less, and die more — overwhelmingly because of **",
       "domain": [
         "good-deed"
@@ -1644,7 +1644,7 @@
     },
     {
       "name": "screening-coverage-trends",
-      "repo": "Elyos-Projects/screening-coverage-trends",
+      "repo": "Hee-Lee-Oss-Projects/screening-coverage-trends",
       "description": "Cancer screening saves lives by catching breast, cervical, colorectal, and (for high-risk groups) lung cancers early — but **screening rates are uneven and trending in worrying directions** for many p",
       "domain": [
         "good-deed"
@@ -1658,7 +1658,7 @@
     },
     {
       "name": "prevention-info-open",
-      "repo": "Elyos-Projects/prevention-info-open",
+      "repo": "Hee-Lee-Oss-Projects/prevention-info-open",
       "description": "Roughly a large share of cancer cases are attributable to **modifiable** exposures, and three of the biggest and best-established are tobacco use, persistent HPV infection (vaccine-preventable), and u",
       "domain": [
         "good-deed"
@@ -1672,7 +1672,7 @@
     },
     {
       "name": "genome-browser-tracks",
-      "repo": "Elyos-Projects/genome-browser-tracks",
+      "repo": "Hee-Lee-Oss-Projects/genome-browser-tracks",
       "description": "Cancer genomics knowledge is published across dozens of open resources — gene models (GENCODE, RefSeq, Ensembl), curated variant interpretations (CIViC, ClinVar), driver-gene and target evidence (Open",
       "domain": [
         "good-deed"
@@ -1686,7 +1686,7 @@
     },
     {
       "name": "lab-protocols-open",
-      "repo": "Elyos-Projects/lab-protocols-open",
+      "repo": "Hee-Lee-Oss-Projects/lab-protocols-open",
       "description": "Cancer wet-lab research runs on protocols — the step-by-step recipes for culturing cells, extracting nucleic acids, running assays, building animal models, and preparing samples for sequencing. In pra",
       "domain": [
         "good-deed"
@@ -1700,7 +1700,7 @@
     },
     {
       "name": "onco-research-software-docs",
-      "repo": "Elyos-Projects/onco-research-software-docs",
+      "repo": "Hee-Lee-Oss-Projects/onco-research-software-docs",
       "description": "Cancer research runs on open-source software — variant callers, differential-expression and single-cell toolkits, mutational-signature engines, fusion detectors, digital-pathology and medical-imaging ",
       "domain": [
         "good-deed"
@@ -1714,7 +1714,7 @@
     },
     {
       "name": "pathology-image-benchmarks",
-      "repo": "Elyos-Projects/pathology-image-benchmarks",
+      "repo": "Hee-Lee-Oss-Projects/pathology-image-benchmarks",
       "description": "Computational pathology is moving fast and reproducing badly. Papers report state-of-the-art numbers on whole-slide images, but comparisons are routinely undermined by three problems: (1) **data-sourc",
       "domain": [
         "good-deed"
@@ -1728,7 +1728,7 @@
     },
     {
       "name": "model-cards-oncology",
-      "repo": "Elyos-Projects/model-cards-oncology",
+      "repo": "Hee-Lee-Oss-Projects/model-cards-oncology",
       "description": "Open machine-learning models for cancer — digital-pathology classifiers, mutation/biomarker predictors from H&E images, radiogenomics models, transcriptomic subtype classifiers, survival models — are ",
       "domain": [
         "good-deed"
@@ -1742,7 +1742,7 @@
     },
     {
       "name": "bioinformatics-from-zero",
-      "repo": "Elyos-Projects/bioinformatics-from-zero",
+      "repo": "Hee-Lee-Oss-Projects/bioinformatics-from-zero",
       "description": "Cancer research generates enormous volumes of openly available data — gene expression matrices, de-identified clinical tables, aggregate incidence statistics, cell-line dependency maps — yet the skill",
       "domain": [
         "good-deed"
@@ -1756,7 +1756,7 @@
     },
     {
       "name": "oncology-data-literacy",
-      "repo": "Elyos-Projects/oncology-data-literacy",
+      "repo": "Hee-Lee-Oss-Projects/oncology-data-literacy",
       "description": "Cancer statistics are among the most widely cited and most widely misunderstood numbers in public life. \"Five-year survival has doubled\" is routinely read as \"screening saves lives\" when it can be ful",
       "domain": [
         "good-deed"
@@ -1770,7 +1770,7 @@
     },
     {
       "name": "open-teaching-datasets",
-      "repo": "Elyos-Projects/open-teaching-datasets",
+      "repo": "Hee-Lee-Oss-Projects/open-teaching-datasets",
       "description": "Learning to work with cancer data — survival analysis, differential expression, variant annotation, staging logic, epidemiology, messy-data cleaning — is gatekept by a data problem. The realistic data",
       "domain": [
         "good-deed"
@@ -1784,7 +1784,7 @@
     },
     {
       "name": "reproducibility-curriculum",
-      "repo": "Elyos-Projects/reproducibility-curriculum",
+      "repo": "Hee-Lee-Oss-Projects/reproducibility-curriculum",
       "description": "Wet-lab and translational cancer scientists routinely produce results that are difficult or impossible for anyone — including their own future selves — to reproduce: analyses run in undocumented, hand",
       "domain": [
         "good-deed"
@@ -1798,7 +1798,7 @@
     },
     {
       "name": "stats-for-clinicians",
-      "repo": "Elyos-Projects/stats-for-clinicians",
+      "repo": "Hee-Lee-Oss-Projects/stats-for-clinicians",
       "description": "Clinicians read trial results every week and act on them, but the **statistics that decide how a result should change practice are routinely misread** — by trainees and senior physicians alike. The li",
       "domain": [
         "good-deed"
@@ -1812,7 +1812,7 @@
     },
     {
       "name": "patient-advocate-research-primer",
-      "repo": "Elyos-Projects/patient-advocate-research-primer",
+      "repo": "Hee-Lee-Oss-Projects/patient-advocate-research-primer",
       "description": "Patient advocates are now embedded throughout cancer research. They sit on NIH/NCI study sections, charity scientific advisory boards, IRBs/ethics committees, trial steering and data-safety committees",
       "domain": [
         "good-deed"
@@ -1826,7 +1826,7 @@
     },
     {
       "name": "rare-cancer-registry-templates",
-      "repo": "Elyos-Projects/rare-cancer-registry-templates",
+      "repo": "Hee-Lee-Oss-Projects/rare-cancer-registry-templates",
       "description": "Rare cancers (individually < 6 / 100,000 / year; collectively ~20–24% of all cancer diagnoses and a disproportionate share of cancer mortality) are the textbook case where data fragmentation kills. No",
       "domain": [
         "good-deed"
