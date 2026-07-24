@@ -1850,6 +1850,20 @@
       "openTasks": 4,
       "tags": [],
       "definitionOfShipped": "A set of openly-licensed, plain-language post-harvest handling and storage guides published in the repo and usable by smallholder-farmer support organizations."
+    },
+    {
+      "name": "girls-stem-oer",
+      "repo": "Hee-Lee-Oss-Projects/girls-stem-oer",
+      "description": "Openly-licensed STEM lesson materials and hands-on activities intended to close participation gaps for",
+      "domain": [
+        "education",
+        "stem",
+        "equity"
+      ],
+      "priority": "medium",
+      "openTasks": 4,
+      "tags": [],
+      "definitionOfShipped": "A set of openly-licensed STEM lesson materials and activities designed to close access gaps for girls, published in the repo and adopted by at least one classroom or program."
     }
   ]
 }
