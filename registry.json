@@ -1892,6 +1892,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "A set of documented, reproducible benchmark specs with reference results, published openly and runnable by a third party."
+    },
+    {
+      "name": "biodiversity-checklists",
+      "repo": "Hee-Lee-Oss-Projects/biodiversity-checklists",
+      "description": "Regional species checklists derived from open GBIF occurrence data, with careful provenance and license recording, for conservation and education use.",
+      "domain": [
+        "biodiversity",
+        "open-data",
+        "conservation"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Regional species checklists derived from open GBIF data, with recorded provenance and licenses, published openly and handed to a local conservation group."
     }
   ]
 }
