@@ -2242,6 +2242,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, plain-language explainers and principles for privacy-first inclusive digital ID, used by a civil-society group."
+    },
+    {
+      "name": "content-provenance-tools",
+      "repo": "Hee-Lee-Oss-Projects/content-provenance-tools",
+      "description": "Open documentation and tooling for content provenance and authenticity — how manifests, signing, and verification work (C2PA-style), and their real limits — to help counter media manipulation.",
+      "domain": [
+        "media",
+        "provenance",
+        "open-source"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented, open tooling and guides for content provenance/authenticity (C2PA-style), adopted by a newsroom or open project."
     }
   ]
 }
