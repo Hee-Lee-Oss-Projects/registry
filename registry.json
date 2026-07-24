@@ -2060,6 +2060,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Offline-first learning packs and an authoring standard, published openly and used in a low-connectivity classroom or program."
+    },
+    {
+      "name": "open-citation-graph",
+      "repo": "Hee-Lee-Oss-Projects/open-citation-graph",
+      "description": "An open, provenance-tracked graph of citations and claims — schema, documented ingestion from open bibliographic sources, and validated query examples.",
+      "domain": [
+        "open-science",
+        "metascience",
+        "open-data"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "An open, documented citation/claim-provenance graph schema with source ingestion datasheets and validated examples, reused by a research or tooling project."
     }
   ]
 }
