@@ -2406,6 +2406,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Plain-language, purely defensive security-hardening checklists for nonprofits, mapped to established frameworks, adopted by at least one org."
+    },
+    {
+      "name": "amr-surveillance-data",
+      "repo": "Hee-Lee-Oss-Projects/amr-surveillance-data",
+      "description": "Harmonized, well-documented open antimicrobial-resistance monitoring datasets — public-health epidemiological data only, aggregate and de-identified — with datasheets and provenance, so AMR researchers can compare across sources.",
+      "domain": [
+        "public-health",
+        "open-data",
+        "amr"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Harmonized, documented open antimicrobial-resistance (AMR) monitoring datasets with datasheets and provenance, reused by a public-health research group."
     }
   ]
 }
