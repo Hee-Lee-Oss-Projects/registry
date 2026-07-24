@@ -1990,6 +1990,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, plain-language agronomy guides summarizing established practice, source-cited, and handed to a farmer-support organization."
+    },
+    {
+      "name": "open-research-benchmarks",
+      "repo": "Hee-Lee-Oss-Projects/open-research-benchmarks",
+      "description": "Transparent, reproducible benchmark specifications for common open-science tasks, with clear datasets, metrics, and baseline results.",
+      "domain": [
+        "open-science",
+        "software",
+        "reproducibility"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Documented, reproducible benchmark specifications for science tasks with baselines, published openly and reused by a research group."
     }
   ]
 }
