@@ -2298,6 +2298,19 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "A verified, openly-licensed directory of official crisis-support lines — every entry sourced to an authoritative provider and expert-verified before publication."
+    },
+    {
+      "name": "open-psychoeducation",
+      "repo": "Hee-Lee-Oss-Projects/open-psychoeducation",
+      "description": "Openly-licensed, evidence-based psychoeducation — plain-language explainers on stress, sleep, and anxiety basics — framed strictly as general education, clinician-reviewed, and always signposting real professional help.",
+      "domain": [
+        "mental-health",
+        "education"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Openly-licensed, evidence-based psychoeducation materials — reviewed by a licensed clinician, always signposting professional help, never diagnosis or treatment."
     }
   ]
 }
