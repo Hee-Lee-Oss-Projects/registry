@@ -1906,6 +1906,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Regional species checklists derived from open GBIF data, with recorded provenance and licenses, published openly and handed to a local conservation group."
+    },
+    {
+      "name": "open-earth-data-catalog",
+      "repo": "Hee-Lee-Oss-Projects/open-earth-data-catalog",
+      "description": "An indexed catalog of datasheets describing open Earth-observation datasets (Copernicus, NASA, NOAA) — what each contains, how to access it, its license, and its caveats.",
+      "domain": [
+        "earth-observation",
+        "open-data",
+        "climate"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "A browsable catalog of datasheets for open EO datasets, each recording access, license, and caveats, published openly and used by at least one research or NGO team."
     }
   ]
 }
