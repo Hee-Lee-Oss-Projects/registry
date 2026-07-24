@@ -2325,6 +2325,19 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Plain-language tooling and explainers over public ClinicalTrials.gov data — informational only, never medical advice or endorsement, expert-reviewed, always directing families to their care team."
+    },
+    {
+      "name": "outbreak-explainers",
+      "repo": "Hee-Lee-Oss-Projects/outbreak-explainers",
+      "description": "Plain-language, authoritatively-sourced explainers of how disease outbreaks work and how to read public-health guidance — factual, non-alarmist, and expert-reviewed, so people can understand rather than panic.",
+      "domain": [
+        "public-health",
+        "education"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Plain-language, authoritatively-sourced outbreak explainers — factual, non-alarmist, date-stamped, expert-reviewed, correcting common misinformation with citations."
     }
   ]
 }
