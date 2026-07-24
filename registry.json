@@ -2311,6 +2311,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, evidence-based psychoeducation materials — reviewed by a licensed clinician, always signposting professional help, never diagnosis or treatment."
+    },
+    {
+      "name": "pediatric-oncology-trial-finder",
+      "repo": "Hee-Lee-Oss-Projects/pediatric-oncology-trial-finder",
+      "description": "Plain-language tooling and explainers that make public pediatric-oncology clinical-trial listings understandable to families — strictly informational, expert-reviewed, and always pointing back to the child's care team, never offering medical advice.",
+      "domain": [
+        "health",
+        "pediatrics",
+        "open-data"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Plain-language tooling and explainers over public ClinicalTrials.gov data — informational only, never medical advice or endorsement, expert-reviewed, always directing families to their care team."
     }
   ]
 }
