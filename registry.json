@@ -2352,6 +2352,19 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Vetted women's-health education, translated with fidelity — clinically and linguistically reviewed before delivery, framed as education not advice, always signposting local care."
+    },
+    {
+      "name": "chw-job-aids",
+      "repo": "Hee-Lee-Oss-Projects/chw-job-aids",
+      "description": "Open, plain-language job aids and checklists for community health workers — adapted faithfully from WHO and published materials, expert-reviewed, and scoped to what a CHW does, so frontline workers have reliable references.",
+      "domain": [
+        "public-health",
+        "global-health"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Open, plain-language community-health-worker job aids adapted from WHO/published materials — expert-reviewed, kept within CHW scope, never a substitute for clinical judgment."
     }
   ]
 }
