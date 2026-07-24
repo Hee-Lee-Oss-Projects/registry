@@ -2116,6 +2116,20 @@
       "openTasks": 6,
       "tags": [],
       "definitionOfShipped": "Plain-language, source-cited explainers of natural-hazard risk from open data, published openly and usable in community preparedness or teaching."
+    },
+    {
+      "name": "remittance-cost-transparency",
+      "repo": "Hee-Lee-Oss-Projects/remittance-cost-transparency",
+      "description": "Open, well-documented data and explainers on what it actually costs to send money home — remittance fees by corridor — from World Bank open data, to support financial inclusion.",
+      "domain": [
+        "open-data",
+        "economics",
+        "financial-inclusion"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented open datasets and explainers on remittance costs by corridor, published openly and used by a financial-inclusion group."
     }
   ]
 }
