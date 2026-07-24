@@ -2018,6 +2018,20 @@
       "openTasks": 7,
       "tags": [],
       "definitionOfShipped": "Reproducible, documented EO analysis pipelines over open data, published openly and re-run by a third party."
+    },
+    {
+      "name": "seti-open-analysis",
+      "repo": "Hee-Lee-Oss-Projects/seti-open-analysis",
+      "description": "Open, reproducible analysis methods and benchmarks for public radio-survey data used in technosignature/SETI-style searches — transparent, documented, and citable.",
+      "domain": [
+        "astronomy",
+        "open-science",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Reproducible analysis methods and benchmarks over public radio-survey data, published openly and reused by a research group."
     }
   ]
 }
