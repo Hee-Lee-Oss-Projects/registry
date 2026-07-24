@@ -2228,6 +2228,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, plain-language financial-literacy guides (education, not advice), used by a community program."
+    },
+    {
+      "name": "inclusive-digital-id-docs",
+      "repo": "Hee-Lee-Oss-Projects/inclusive-digital-id-docs",
+      "description": "Plain-language, source-cited explainers and principles for inclusive, privacy-first digital identity — what it is, its risks and safeguards, and the open standards behind it.",
+      "domain": [
+        "civic",
+        "privacy",
+        "inclusion"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Openly-licensed, plain-language explainers and principles for privacy-first inclusive digital ID, used by a civil-society group."
     }
   ]
 }
