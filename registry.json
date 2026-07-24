@@ -1920,6 +1920,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "A browsable catalog of datasheets for open EO datasets, each recording access, license, and caveats, published openly and used by at least one research or NGO team."
+    },
+    {
+      "name": "satellite-change-explainers",
+      "repo": "Hee-Lee-Oss-Projects/satellite-change-explainers",
+      "description": "Plain-language explainers of how open satellite data reveals land, ice, and forest change — accurate, source-cited, and honest about uncertainty.",
+      "domain": [
+        "earth-observation",
+        "education",
+        "climate"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Plain-language explainers of how open satellite data reveals environmental change, source-cited and uncertainty-aware, published openly."
     }
   ]
 }
