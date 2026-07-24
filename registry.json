@@ -2032,6 +2032,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Reproducible analysis methods and benchmarks over public radio-survey data, published openly and reused by a research group."
+    },
+    {
+      "name": "surplus-redistribution-toolkit",
+      "repo": "Hee-Lee-Oss-Projects/surplus-redistribution-toolkit",
+      "description": "Open, documented building blocks for matching surplus food to the organizations that can use it — a data schema, matching logic, and operational playbooks that respect privacy.",
+      "domain": [
+        "food-security",
+        "logistics",
+        "open-source"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "An open, documented toolkit (data schema, matching logic, playbooks) adopted by at least one food-bank or mutual-aid group."
     }
   ]
 }
