@@ -1878,6 +1878,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Classroom-ready explainers and a documented data guide published openly and usable in a lesson or outreach setting."
+    },
+    {
+      "name": "open-compute-benchmarks",
+      "repo": "Hee-Lee-Oss-Projects/open-compute-benchmarks",
+      "description": "Open, verified benchmark specifications and reference results for common numeric/HPC kernels, so developers can compare implementations fairly and reproducibly.",
+      "domain": [
+        "software",
+        "hpc",
+        "open-science"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "A set of documented, reproducible benchmark specs with reference results, published openly and runnable by a third party."
     }
   ]
 }
