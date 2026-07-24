@@ -1934,6 +1934,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Plain-language explainers of how open satellite data reveals environmental change, source-cited and uncertainty-aware, published openly."
+    },
+    {
+      "name": "astro-datasheets",
+      "repo": "Hee-Lee-Oss-Projects/astro-datasheets",
+      "description": "Clear datasheets describing major open astronomy datasets (Gaia, SDSS, and more) — contents, access, license, and caveats — so learners and researchers can use them confidently.",
+      "domain": [
+        "astronomy",
+        "open-data",
+        "open-science"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Datasheets for major open astronomy datasets recording access, license, and caveats, published openly and used in teaching or research."
     }
   ]
 }
