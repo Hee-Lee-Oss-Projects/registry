@@ -1875,7 +1875,7 @@
         "open-data"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Classroom-ready explainers and a documented data guide published openly and usable in a lesson or outreach setting."
     },
@@ -1889,7 +1889,7 @@
         "open-science"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 8,
       "tags": [],
       "definitionOfShipped": "A set of documented, reproducible benchmark specs with reference results, published openly and runnable by a third party."
     },
@@ -1903,7 +1903,7 @@
         "conservation"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 9,
       "tags": [],
       "definitionOfShipped": "Regional species checklists derived from open GBIF data, with recorded provenance and licenses, published openly and handed to a local conservation group."
     },
@@ -1917,7 +1917,7 @@
         "climate"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 9,
       "tags": [],
       "definitionOfShipped": "A browsable catalog of datasheets for open EO datasets, each recording access, license, and caveats, published openly and used by at least one research or NGO team."
     },
@@ -1931,7 +1931,7 @@
         "climate"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 7,
       "tags": [],
       "definitionOfShipped": "Plain-language explainers of how open satellite data reveals environmental change, source-cited and uncertainty-aware, published openly."
     },
@@ -1945,7 +1945,7 @@
         "open-science"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 8,
       "tags": [],
       "definitionOfShipped": "Datasheets for major open astronomy datasets recording access, license, and caveats, published openly and used in teaching or research."
     },
@@ -1959,7 +1959,7 @@
         "agriculture"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Harmonized derivative food-loss datasets with datasheets recording sources and licenses, published openly and used by a food-security team."
     },
@@ -1973,7 +1973,7 @@
         "food-security"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 7,
       "tags": [],
       "definitionOfShipped": "A documented, openly-licensed database of crop varieties and traits with per-entry provenance, published openly and used by an agricultural org."
     },
@@ -1987,7 +1987,7 @@
         "food-security"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 12,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, plain-language agronomy guides summarizing established practice, source-cited, and handed to a farmer-support organization."
     },
@@ -2001,7 +2001,7 @@
         "reproducibility"
       ],
       "priority": "medium",
-      "openTasks": 3,
+      "openTasks": 7,
       "tags": [],
       "definitionOfShipped": "Documented, reproducible benchmark specifications for science tasks with baselines, published openly and reused by a research group."
     }
