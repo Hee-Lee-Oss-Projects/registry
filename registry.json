@@ -2144,6 +2144,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Documented inventories of gender data gaps and a catalog of open sources, published openly and used to prioritize data collection."
+    },
+    {
+      "name": "open-phenotyping-tools",
+      "repo": "Hee-Lee-Oss-Projects/open-phenotyping-tools",
+      "description": "Open, documented tooling and standards for working with public plant-phenotype data — schemas, extraction guides, and quality checks that make phenotype data reusable.",
+      "domain": [
+        "agriculture",
+        "open-science",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented, reusable tooling and standards for open plant-phenotype data, adopted by a research group."
     }
   ]
 }
