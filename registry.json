@@ -2004,6 +2004,20 @@
       "openTasks": 7,
       "tags": [],
       "definitionOfShipped": "Documented, reproducible benchmark specifications for science tasks with baselines, published openly and reused by a research group."
+    },
+    {
+      "name": "open-eo-pipelines",
+      "repo": "Hee-Lee-Oss-Projects/open-eo-pipelines",
+      "description": "Reproducible, well-documented analysis pipelines for open Earth-observation data — flood mapping, vegetation and water change, and more — that anyone can run and verify.",
+      "domain": [
+        "earth-observation",
+        "open-science",
+        "climate"
+      ],
+      "priority": "medium",
+      "openTasks": 7,
+      "tags": [],
+      "definitionOfShipped": "Reproducible, documented EO analysis pipelines over open data, published openly and re-run by a third party."
     }
   ]
 }
