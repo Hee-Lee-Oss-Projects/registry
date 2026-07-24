@@ -1837,6 +1837,19 @@
         "needs-partner"
       ],
       "definitionOfShipped": "standards to stand up or harmonise a **consent-first** registry, with the consent and governance artifacts independently reviewed (oncologist + advocate for patient-facing text; bioethics/legal for the regulatory mapping), conformance demonstrated on synthetic data, and **no pati"
+    },
+    {
+      "name": "post-harvest-guides",
+      "repo": "Hee-Lee-Oss-Projects/post-harvest-guides",
+      "description": "Openly-licensed, plain-language guides on handling and storing staple crops after harvest — reducing",
+      "domain": [
+        "agriculture",
+        "food-security"
+      ],
+      "priority": "medium",
+      "openTasks": 4,
+      "tags": [],
+      "definitionOfShipped": "A set of openly-licensed, plain-language post-harvest handling and storage guides published in the repo and usable by smallholder-farmer support organizations."
     }
   ]
 }
