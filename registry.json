@@ -2130,6 +2130,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Documented open datasets and explainers on remittance costs by corridor, published openly and used by a financial-inclusion group."
+    },
+    {
+      "name": "gender-data-gap-fillers",
+      "repo": "Hee-Lee-Oss-Projects/gender-data-gap-fillers",
+      "description": "Documented inventories of where sex-disaggregated data is missing across domains, plus a catalog of open sources — turning the gender data gap into something concrete to close.",
+      "domain": [
+        "open-data",
+        "equity",
+        "gender"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented inventories of gender data gaps and a catalog of open sources, published openly and used to prioritize data collection."
     }
   ]
 }
