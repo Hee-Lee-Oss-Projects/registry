@@ -2046,6 +2046,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "An open, documented toolkit (data schema, matching logic, playbooks) adopted by at least one food-bank or mutual-aid group."
+    },
+    {
+      "name": "offline-learning-packs",
+      "repo": "Hee-Lee-Oss-Projects/offline-learning-packs",
+      "description": "Offline-first learning packs — self-contained, low-bandwidth lesson bundles built on OER — plus a packaging standard, for learners without reliable connectivity.",
+      "domain": [
+        "education",
+        "accessibility",
+        "offline"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Offline-first learning packs and an authoring standard, published openly and used in a low-connectivity classroom or program."
     }
   ]
 }
