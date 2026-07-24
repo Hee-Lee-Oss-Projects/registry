@@ -1864,6 +1864,20 @@
       "openTasks": 4,
       "tags": [],
       "definitionOfShipped": "A set of openly-licensed STEM lesson materials and activities designed to close access gaps for girls, published in the repo and adopted by at least one classroom or program."
+    },
+    {
+      "name": "exoplanet-explorer",
+      "repo": "Hee-Lee-Oss-Projects/exoplanet-explorer",
+      "description": "Plain-language explainers and a documented guide to exploring the public NASA Exoplanet Archive, for classrooms and curious learners.",
+      "domain": [
+        "education",
+        "astronomy",
+        "open-data"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Classroom-ready explainers and a documented data guide published openly and usable in a lesson or outreach setting."
     }
   ]
 }
