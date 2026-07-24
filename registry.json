@@ -2378,6 +2378,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Harmonized, documented maternal-health indicators built from open aggregate data (DHS/UN), with provenance and caveats, reused by a research or advocacy group."
+    },
+    {
+      "name": "low-resource-parallel-corpora",
+      "repo": "Hee-Lee-Oss-Projects/low-resource-parallel-corpora",
+      "description": "Openly-licensed, consented parallel corpora for under-served languages — with a clear schema, consent-first collection, and per-pair provenance — to help build translation for languages the big datasets ignore.",
+      "domain": [
+        "language",
+        "open-data",
+        "translation"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Openly-licensed, consented parallel corpora for under-served languages, with per-pair provenance and consent, reused by a translation/research project."
     }
   ]
 }
