@@ -2338,6 +2338,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Plain-language, authoritatively-sourced outbreak explainers — factual, non-alarmist, date-stamped, expert-reviewed, correcting common misinformation with citations."
+    },
+    {
+      "name": "women-s-health-translations",
+      "repo": "Hee-Lee-Oss-Projects/women-s-health-translations",
+      "description": "Vetted, plain-language women's-health education translated into under-served languages — clinically reviewed for accuracy and linguistically reviewed for fidelity before it ships, framed as general education and always pointing to local care.",
+      "domain": [
+        "health",
+        "language",
+        "accessibility"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Vetted women's-health education, translated with fidelity — clinically and linguistically reviewed before delivery, framed as education not advice, always signposting local care."
     }
   ]
 }
