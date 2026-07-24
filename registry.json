@@ -2200,6 +2200,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "A documented catalog of offline-first patterns and guides, reused by at least one low-connectivity org's app."
+    },
+    {
+      "name": "distributed-task-protocol",
+      "repo": "Hee-Lee-Oss-Projects/distributed-task-protocol",
+      "description": "A reusable, documented protocol for coordinating chunked work across many contributors or agents, with built-in verification — generalized from Hee-Lee Oss's own task flow.",
+      "domain": [
+        "software",
+        "open-source",
+        "coordination"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "A documented, reusable protocol spec for chunk coordination and verification, adopted by at least one project."
     }
   ]
 }
