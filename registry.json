@@ -1962,6 +1962,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Harmonized derivative food-loss datasets with datasheets recording sources and licenses, published openly and used by a food-security team."
+    },
+    {
+      "name": "crop-variety-open-db",
+      "repo": "Hee-Lee-Oss-Projects/crop-variety-open-db",
+      "description": "An openly-licensed, well-documented database of crop varieties and their traits, compiled from open gene-bank and catalog sources with per-entry provenance.",
+      "domain": [
+        "agriculture",
+        "open-data",
+        "food-security"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "A documented, openly-licensed database of crop varieties and traits with per-entry provenance, published openly and used by an agricultural org."
     }
   ]
 }
