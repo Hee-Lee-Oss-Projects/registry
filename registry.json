@@ -2158,6 +2158,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Documented, reusable tooling and standards for open plant-phenotype data, adopted by a research group."
+    },
+    {
+      "name": "literature-synthesis-tools",
+      "repo": "Hee-Lee-Oss-Projects/literature-synthesis-tools",
+      "description": "Open, provenance-first tooling and methods for extracting and synthesizing findings from open-access literature — where every extracted claim is traceable to its source and nothing is invented.",
+      "domain": [
+        "open-science",
+        "metascience",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented, provenance-first extraction and synthesis methods over open-access literature, reused by a research project."
     }
   ]
 }
