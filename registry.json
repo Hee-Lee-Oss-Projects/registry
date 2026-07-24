@@ -2365,6 +2365,19 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Open, plain-language community-health-worker job aids adapted from WHO/published materials — expert-reviewed, kept within CHW scope, never a substitute for clinical judgment."
+    },
+    {
+      "name": "maternal-health-indicators",
+      "repo": "Hee-Lee-Oss-Projects/maternal-health-indicators",
+      "description": "Harmonized, well-documented maternal-health indicators built strictly from open aggregate data (DHS/UN) — with provenance, quality notes, and caveats — so researchers and advocates can compare figures without wrangling raw sources.",
+      "domain": [
+        "public-health",
+        "open-data"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Harmonized, documented maternal-health indicators built from open aggregate data (DHS/UN), with provenance and caveats, reused by a research or advocacy group."
     }
   ]
 }
