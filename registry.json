@@ -2102,6 +2102,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Plain-language, source-cited explainers of key poverty and inequality indicators from open data, published openly and used in teaching or reporting."
+    },
+    {
+      "name": "hazard-risk-explainers",
+      "repo": "Hee-Lee-Oss-Projects/hazard-risk-explainers",
+      "description": "Plain-language explainers of natural-hazard risk — floods, heat, earthquakes, wildfire — grounded in open data, honest about uncertainty, and free of site-specific advice.",
+      "domain": [
+        "open-data",
+        "climate",
+        "public-safety"
+      ],
+      "priority": "medium",
+      "openTasks": 6,
+      "tags": [],
+      "definitionOfShipped": "Plain-language, source-cited explainers of natural-hazard risk from open data, published openly and usable in community preparedness or teaching."
     }
   ]
 }
