@@ -2172,6 +2172,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Documented, provenance-first extraction and synthesis methods over open-access literature, reused by a research project."
+    },
+    {
+      "name": "low-resource-dictionaries",
+      "repo": "Hee-Lee-Oss-Projects/low-resource-dictionaries",
+      "description": "Community-led, openly-licensed dictionaries for under-served languages — with a clear schema, consent-first contribution process, and per-entry provenance.",
+      "domain": [
+        "language",
+        "culture",
+        "open-data"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Community-led, openly-licensed dictionaries for under-served languages, published openly with consent and provenance recorded."
     }
   ]
 }
