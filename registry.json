@@ -1976,6 +1976,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "A documented, openly-licensed database of crop varieties and traits with per-entry provenance, published openly and used by an agricultural org."
+    },
+    {
+      "name": "agronomy-guides-open",
+      "repo": "Hee-Lee-Oss-Projects/agronomy-guides-open",
+      "description": "Openly-licensed, plain-language agronomy guides that summarize established good practice from authoritative sources for smallholder farmers and extension workers.",
+      "domain": [
+        "agriculture",
+        "education",
+        "food-security"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Openly-licensed, plain-language agronomy guides summarizing established practice, source-cited, and handed to a farmer-support organization."
     }
   ]
 }
