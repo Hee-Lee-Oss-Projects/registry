@@ -2074,6 +2074,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "An open, documented citation/claim-provenance graph schema with source ingestion datasheets and validated examples, reused by a research or tooling project."
+    },
+    {
+      "name": "reproducibility-checks",
+      "repo": "Hee-Lee-Oss-Projects/reproducibility-checks",
+      "description": "A transparent methodology and documented assessments of whether open papers' code and data are actually available and re-runnable — turning reproducibility into a checkable signal.",
+      "domain": [
+        "open-science",
+        "reproducibility",
+        "metascience"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "A reproducibility-assessment methodology plus documented assessments of open papers, published openly and used to inform reproducibility practice."
     }
   ]
 }
