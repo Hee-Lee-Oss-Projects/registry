@@ -2392,6 +2392,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Openly-licensed, consented parallel corpora for under-served languages, with per-pair provenance and consent, reused by a translation/research project."
+    },
+    {
+      "name": "nonprofit-security-hardening",
+      "repo": "Hee-Lee-Oss-Projects/nonprofit-security-hardening",
+      "description": "Plain-language, purely defensive security-hardening checklists for under-resourced nonprofits — accounts/MFA, backups, phishing awareness, and incident basics — mapped to established frameworks, with no offensive content whatsoever.",
+      "domain": [
+        "security",
+        "nonprofit",
+        "defensive"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Plain-language, purely defensive security-hardening checklists for nonprofits, mapped to established frameworks, adopted by at least one org."
     }
   ]
 }
