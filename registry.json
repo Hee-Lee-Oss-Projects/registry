@@ -2186,6 +2186,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Community-led, openly-licensed dictionaries for under-served languages, published openly with consent and provenance recorded."
+    },
+    {
+      "name": "offline-first-toolkits",
+      "repo": "Hee-Lee-Oss-Projects/offline-first-toolkits",
+      "description": "A documented catalog of offline-first patterns — storage/sync, low-bandwidth UI, and PWA techniques — so developers can build apps that work where connectivity doesn't.",
+      "domain": [
+        "software",
+        "accessibility",
+        "offline"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "A documented catalog of offline-first patterns and guides, reused by at least one low-connectivity org's app."
     }
   ]
 }
