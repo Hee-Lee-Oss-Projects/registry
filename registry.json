@@ -2088,6 +2088,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "A reproducibility-assessment methodology plus documented assessments of open papers, published openly and used to inform reproducibility practice."
+    },
+    {
+      "name": "poverty-data-explainers",
+      "repo": "Hee-Lee-Oss-Projects/poverty-data-explainers",
+      "description": "Plain-language, source-cited explainers of poverty and inequality — what the key indicators mean, what open data shows, and how to read it honestly.",
+      "domain": [
+        "open-data",
+        "economics",
+        "development"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Plain-language, source-cited explainers of key poverty and inequality indicators from open data, published openly and used in teaching or reporting."
     }
   ]
 }
