@@ -1948,6 +1948,20 @@
       "openTasks": 3,
       "tags": [],
       "definitionOfShipped": "Datasheets for major open astronomy datasets recording access, license, and caveats, published openly and used in teaching or research."
+    },
+    {
+      "name": "food-loss-data",
+      "repo": "Hee-Lee-Oss-Projects/food-loss-data",
+      "description": "Harmonized, well-documented derivative datasets on food loss and waste, built from open FAO/UN sources with careful provenance, for NGOs and researchers.",
+      "domain": [
+        "food-security",
+        "open-data",
+        "agriculture"
+      ],
+      "priority": "medium",
+      "openTasks": 3,
+      "tags": [],
+      "definitionOfShipped": "Harmonized derivative food-loss datasets with datasheets recording sources and licenses, published openly and used by a food-security team."
     }
   ]
 }
