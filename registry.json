@@ -2270,6 +2270,20 @@
       "openTasks": 4,
       "tags": [],
       "definitionOfShipped": "A neutral methodology and factual, searchable digests of public meetings, published openly and used by residents/journalists."
+    },
+    {
+      "name": "claim-verification-toolkit",
+      "repo": "Hee-Lee-Oss-Projects/claim-verification-toolkit",
+      "description": "Open tooling and methods for tracing claims back to primary sources — surfacing provenance so readers can judge for themselves, explicitly without acting as an arbiter of truth.",
+      "domain": [
+        "open-science",
+        "provenance",
+        "software"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "Documented, open tooling and methods for linking claims to primary sources (not adjudicating truth), adopted by a newsroom or research group."
     }
   ]
 }
