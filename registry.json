@@ -2284,6 +2284,20 @@
       "openTasks": 5,
       "tags": [],
       "definitionOfShipped": "Documented, open tooling and methods for linking claims to primary sources (not adjudicating truth), adopted by a newsroom or research group."
+    },
+    {
+      "name": "crisis-line-directory",
+      "repo": "Hee-Lee-Oss-Projects/crisis-line-directory",
+      "description": "A verified, openly-licensed directory of official crisis-support lines (phone/text/chat) — where every number is traced to an authoritative source and checked before it ships, because a wrong crisis number is worse than none.",
+      "domain": [
+        "mental-health",
+        "safety",
+        "accessibility"
+      ],
+      "priority": "medium",
+      "openTasks": 5,
+      "tags": [],
+      "definitionOfShipped": "A verified, openly-licensed directory of official crisis-support lines — every entry sourced to an authoritative provider and expert-verified before publication."
     }
   ]
 }
