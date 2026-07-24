@@ -1847,7 +1847,7 @@
         "food-security"
       ],
       "priority": "medium",
-      "openTasks": 4,
+      "openTasks": 12,
       "tags": [],
       "definitionOfShipped": "A set of openly-licensed, plain-language post-harvest handling and storage guides published in the repo and usable by smallholder-farmer support organizations."
     },
@@ -1861,7 +1861,7 @@
         "equity"
       ],
       "priority": "medium",
-      "openTasks": 4,
+      "openTasks": 10,
       "tags": [],
       "definitionOfShipped": "A set of openly-licensed STEM lesson materials and activities designed to close access gaps for girls, published in the repo and adopted by at least one classroom or program."
     },
